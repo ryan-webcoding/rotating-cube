@@ -8,3 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 trying to explore three js inside react. saw a demo very interesting which is a eyeball constantly follow the position of mouse cursor.
+
+https://github.com/user-attachments/assets/10fb82ef-3066-4314-91b0-a1109ae6eff3
+
